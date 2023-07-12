@@ -1,0 +1,102 @@
+[
+{
+"eid": 1,
+"name": "Michael Brown",
+"password": "emp367"
+},
+{
+"eid": 2,
+"name": "Emily Davis",
+"password": "emp789"
+},
+{
+"eid": 3,
+"name": "Jennifer Johnson",
+"password": "emp987"
+},
+{
+"eid": 4,
+"name": "Robert Smith",
+"password": "employeepass321"
+},
+{
+"eid": 5,
+"name": "Laura Davis",
+"password": "emp456"
+},
+{
+"eid": 6,
+"name": "Alexander Wilson",
+"password": "emp654"
+},
+{
+"eid": 7,
+"name": "Charlotte Davis",
+"password": "emp978"
+},
+{
+"eid": 8,
+"name": "Gabriel Johnson",
+"password": "emp123"
+},
+{
+"eid": 9,
+"name": "Scarlett Roberts",
+"password": "employeepass987"
+},
+{
+"eid": 10,
+"name": "Henry Davis",
+"password": "emp785"
+},
+{
+"eid": 11,
+"name": "Zoey Johnson",
+"password": "emp799"
+},
+{
+"eid": 12,
+"name": "Carter Adams",
+"password": "emp947"
+},
+{
+"eid": 13,
+"name": "Mila Thompson",
+"password": "employeepass237"
+},
+{
+"eid": 14,
+"name": "Liam Davis",
+"password": "emp496"
+},
+{
+"eid": 15,
+"name": "Harper Roberts",
+"password": "emp729"
+},
+{
+"eid": 16,
+"name": "Lucas Johnson",
+"password": "emp907"
+},
+{
+"eid": 17,
+"name": "Aria Adams",
+"password": "employeepass923"
+},
+{
+"eid": 18,
+"name": "Jackson Thompson",
+"password": "emp102"
+},
+{
+"eid": 19,
+"name": "Evelyn Davis",
+"password": "emp105"
+},
+{
+"eid": 20,
+"name": "Caleb Roberts",
+"password": "emp621"
+}
+]

@@ -1,0 +1,103 @@
+
+[
+{
+"feedbackid": 1,
+"description": "Great service!",
+"customer_customerid": 1
+},
+{
+"feedbackid": 2,
+"description": "Could be better.",
+"customer_customerid": 2
+},
+{
+"feedbackid": 3,
+"description": "The seats were uncomfortable.",
+"customer_customerid": 3
+},
+{
+"feedbackid": 4,
+"description": "Excellent customer service!",
+"customer_customerid": 4
+},
+{
+"feedbackid": 5,
+"description": "The sound quality needs improvement.",
+"customer_customerid": 5
+},
+{
+"feedbackid": 6,
+"description": "Loved the movie!",
+"customer_customerid": 6
+},
+{
+"feedbackid": 7,
+"description": "Average experience.",
+"customer_customerid": 7
+},
+{
+"feedbackid": 8,
+"description": "Great service!",
+"customer_customerid": 8
+},
+{
+"feedbackid": 9,
+"description": "The food was delicious.",
+"customer_customerid": 9
+},
+{
+"feedbackid": 10,
+"description": "The staff was friendly.",
+"customer_customerid": 10
+},
+{
+"feedbackid": 11,
+"description": "Movie was disappointing.",
+"customer_customerid": 11
+},
+{
+"feedbackid": 12,
+"description": "Could be better.",
+"customer_customerid": 12
+},
+{
+"feedbackid": 13,
+"description": "Service was slow.",
+"customer_customerid": 13
+},
+{
+"feedbackid": 14,
+"description": "Loved the ambiance.",
+"customer_customerid": 14
+},
+{
+"feedbackid": 15,
+"description": "Movie was thrilling!",
+"customer_customerid": 15
+},
+{
+"feedbackid": 16,
+"description": "Could improve cleanliness.",
+"customer_customerid": 16
+},
+{
+"feedbackid": 17,
+"description": "Theater seats were uncomfortable.",
+"customer_customerid": 17
+},
+{
+"feedbackid": 18,
+"description": "Good value for money.",
+"customer_customerid": 18
+},
+{
+"feedbackid": 19,
+"description": "Not worth the price.",
+"customer_customerid": 19
+},
+{
+"feedbackid": 20,
+"description": "Highly recommended!",
+"customer_customerid": 20
+}
+]

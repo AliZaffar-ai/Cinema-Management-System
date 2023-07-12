@@ -1,0 +1,122 @@
+[
+{
+"customerid": 1,
+"name": "Alice Johnson",
+"username": "alice23",
+"password": "pass789"
+},
+{
+"customerid": 2,
+"name": "Bob Thompson",
+"username": "bob88",
+"password": "secureuwd"
+},
+{
+"customerid": 3,
+"name": "Mark Davis",
+"username": "mark85",
+"password": "customer763"
+},
+{
+"customerid": 4,
+"name": "Emily Wilson",
+"username": "emily28",
+"password": "passcustomer463"
+},
+{
+"customerid": 5,
+"name": "Samuel Roberts",
+"username": "sam98",
+"password": "customerpass456"
+},
+{
+"customerid": 6,
+"name": "Sophie Wilson",
+"username": "sophie34",
+"password": "pass73"
+},
+{
+"customerid": 7,
+"name": "Henry Roberts",
+"username": "henry56",
+"password": "securepwd"
+},
+{
+"customerid": 8,
+"name": "Grace Davis",
+"username": "grace72",
+"password": "customer23"
+},
+{
+"customerid": 9,
+"name": "Sebastian Thompson",
+"username": "seb89",
+"password": "passcustomer46"
+},
+{
+"customerid": 10,
+"name": "Lily Adams",
+"username": "lily99",
+"password": "customerpass79"
+},
+{
+"customerid": 11,
+"name": "Jackson Wilson",
+"username": "jackson77",
+"password": "pass12"
+},
+{
+"customerid": 12,
+"name": "Victoria Davis",
+"username": "victoria44",
+"password": "securewd"
+},
+{
+"customerid": 13,
+"name": "Ryan Thompson",
+"username": "ryan78",
+"password": "customer23"
+},
+{
+"customerid": 14,
+"name": "Zoe Adams",
+"username": "zoe22",
+"password": "passcustomer456"
+},
+{
+"customerid": 15,
+"name": "Christopher Johnson",
+"username": "chris33",
+"password": "customerpass89"
+},
+{
+"customerid": 16,
+"name": "Nora Wilson",
+"username": "nora12",
+"password": "pass123"
+},
+{
+"customerid": 17,
+"name": "Elijah Davis",
+"username": "elijah90",
+"password": "securepwd"
+},
+{
+"customerid": 18,
+"name": "Avery Thompson",
+"username": "avery46",
+"password": "customer123"
+},
+{
+"customerid": 19,
+"name": "Hannah Adams",
+"username": "hannah65",
+"password": "passcustomer456"
+},
+{
+"customerid": 20,
+"name": "Benjamin Johnson",
+"username": "ben88",
+"password": "customerpass789"
+}
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "itemid": 1,
+    "itemname": "Popcorn",
+    "description": "Classic movie snack"
+  },
+  {
+    "itemid": 2,
+    "itemname": "Soda",
+    "description": "Refreshing beverage"
+  },
+  {
+    "itemid": 3,
+    "itemname": "Nachos",
+    "description": "Crunchy snack"
+  },
+  {
+    "itemid": 4,
+    "itemname": "Hot Dog",
+    "description": "Classic cinema food"
+  },
+  {
+    "itemid": 5,
+    "itemname": "Ice Cream",
+    "description": "Sweet treat"
+  },
+  {
+    "itemid": 6,
+    "itemname": "Candy",
+    "description": "Assorted sweet treats"
+  },
+  {
+    "itemid": 7,
+    "itemname": "Popcorn Combo",
+    "description": "Popcorn with a drink"
+  },
+  {
+    "itemid": 8,
+    "itemname": "Pizza",
+    "description": "Delicious pizza slices"
+  },
+  {
+    "itemid": 9,
+    "itemname": "Mozzarella Sticks",
+    "description": "Cheesy appetizers"
+  },
+  {
+    "itemid": 10,
+    "itemname": "Pretzel",
+    "description": "Salty snack"
+  },
+  {
+    "itemid": 11,
+    "itemname": "Coffee",
+    "description": "Hot beverage"
+  },
+  {
+    "itemid": 12,
+    "itemname": "Smoothie",
+    "description": "Refreshing fruit drink"
+  },
+  {
+    "itemid": 13,
+    "itemname": "Cheeseburger",
+    "description": "Classic fast food"
+  },
+  {
+    "itemid": 14,
+    "itemname": "Fries",
+    "description": "Crispy side dish"
+  },
+  {
+    "itemid": 15,
+    "itemname": "Brownie",
+    "description": "Rich chocolate dessert"
+  },
+  {
+    "itemid": 16,
+    "itemname": "Sundae",
+    "description": "Ice cream with toppings"
+  },
+  {
+    "itemid": 17,
+    "itemname": "Salad",
+    "description": "Healthy option"
+  },
+  {
+    "itemid": 18,
+    "itemname": "Chicken Wings",
+    "description": "Spicy appetizers"
+  },
+  {
+    "itemid": 19,
+    "itemname": "Hot Chocolate",
+    "description": "Warm and comforting drink"
+  },
+  {
+    "itemid": 20,
+    "itemname": "Soft Pretzel",
+    "description": "Freshly baked pretzel"
+  }
+]

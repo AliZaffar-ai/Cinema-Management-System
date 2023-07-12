@@ -1,0 +1,162 @@
+[
+  {
+    "movieid": 1,
+    "moviename": "The Great Gatsby",
+    "genre": "Drama",
+    "reviews": "Positive",
+    "director": "Baz Luhrmann",
+    "releasedate": "2013-05-10"
+  },
+  {
+    "movieid": 2,
+    "moviename": "Inception",
+    "genre": "Sci-Fi",
+    "reviews": "Highly acclaimed",
+    "director": "Christopher Nolan",
+    "releasedate": "2010-07-16"
+  },
+  {
+    "movieid": 3,
+    "moviename": "The Shawshank Redemption",
+    "genre": "Drama",
+    "reviews": "Highly acclaimed",
+    "director": "Frank Darabont",
+    "releasedate": "1994-09-23"
+  },
+  {
+    "movieid": 4,
+    "moviename": "The Dark Knight",
+    "genre": "Action",
+    "reviews": "Blockbuster",
+    "director": "Christopher Nolan",
+    "releasedate": "2008-07-18"
+  },
+  {
+    "movieid": 5,
+    "moviename": "Pulp Fiction",
+    "genre": "Crime",
+    "reviews": "Cult classic",
+    "director": "Quentin Tarantino",
+    "releasedate": "1994-10-14"
+  },
+  {
+    "movieid": 6,
+    "moviename": "Movie F",
+    "genre": "Action",
+    "reviews": "Good",
+    "director": "Director F",
+    "releasedate": "2023-05-01"
+  },
+  {
+    "movieid": 7,
+    "moviename": "Movie G",
+    "genre": "Drama",
+    "reviews": "Excellent",
+    "director": "Director G",
+    "releasedate": "2023-05-02"
+  },
+  {
+    "movieid": 8,
+    "moviename": "Movie H",
+    "genre": "Comedy",
+    "reviews": "Average",
+    "director": "Director H",
+    "releasedate": "2023-05-03"
+  },
+  {
+    "movieid": 9,
+    "moviename": "Movie I",
+    "genre": "Thriller",
+    "reviews": "Good",
+    "director": "Director I",
+    "releasedate": "2023-05-04"
+  },
+  {
+    "movieid": 10,
+    "moviename": "Movie J",
+    "genre": "Action",
+    "reviews": "Excellent",
+    "director": "Director J",
+    "releasedate": "2023-05-05"
+  },
+  {
+    "movieid": 11,
+    "moviename": "Movie K",
+    "genre": "Drama",
+    "reviews": "Average",
+    "director": "Director K",
+    "releasedate": "2023-05-06"
+  },
+  {
+    "movieid": 12,
+    "moviename": "Movie L",
+    "genre": "Comedy",
+    "reviews": "Good",
+    "director": "Director L",
+    "releasedate": "2023-05-07"
+  },
+  {
+    "movieid": 13,
+    "moviename": "Movie M",
+    "genre": "Thriller",
+    "reviews": "Excellent",
+    "director": "Director M",
+    "releasedate": "2023-05-08"
+  },
+  {
+    "movieid": 14,
+    "moviename": "Movie N",
+    "genre": "Action",
+    "reviews": "Average",
+    "director": "Director N",
+    "releasedate": "2023-05-09"
+  },
+  {
+    "movieid": 15,
+    "moviename": "Movie O",
+    "genre": "Drama",
+    "reviews": "Good",
+    "director": "Director O",
+    "releasedate": "2023-05-10"
+  },
+  {
+    "movieid": 16,
+    "moviename": "Movie P",
+    "genre": "Comedy",
+    "reviews": "Excellent",
+    "director": "Director P",
+    "releasedate": "2023-05-11"
+  },
+  {
+    "movieid": 17,
+    "moviename": "Movie Q",
+    "genre": "Thriller",
+    "reviews": "Average",
+    "director": "Director Q",
+    "releasedate": "2023-05-12"
+  },
+  {
+    "movieid": 18,
+    "moviename": "Movie R",
+    "genre": "Action",
+    "reviews": "Good",
+    "director": "Director R",
+    "releasedate": "2023-05-13"
+  },
+  {
+    "movieid": 19,
+    "moviename": "Movie S",
+    "genre": "Drama",
+    "reviews": "Excellent",
+    "director": "Director S",
+    "releasedate": "2023-05-14"
+  },
+  {
+    "movieid": 20,
+    "moviename": "Movie T",
+    "genre": "Comedy",
+    "reviews": "Average",
+    "director": "Director T",
+    "releasedate": "2023-05-15"
+  }
+]

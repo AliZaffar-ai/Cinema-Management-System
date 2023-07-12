@@ -1,0 +1,102 @@
+[
+  {
+    "nid": 1,
+    "date": "2023-05-15",
+    "description": "Upcoming event: Movie Marathon"
+  },
+  {
+    "nid": 2,
+    "date": "2023-05-16",
+    "description": "Schedule change: Movie timing"
+  },
+  {
+    "nid": 3,
+    "date": "2023-05-17",
+    "description": "Special discount on tickets!"
+  },
+  {
+    "nid": 4,
+    "date": "2023-05-18",
+    "description": "Movie premiere tonight!"
+  },
+  {
+    "nid": 5,
+    "date": "2023-05-19",
+    "description": "Upcoming movie marathon event"
+  },
+  {
+    "nid": 6,
+    "date": "2023-05-20",
+    "description": "New movie release!"
+  },
+  {
+    "nid": 7,
+    "date": "2023-05-21",
+    "description": "Special screening event"
+  },
+  {
+    "nid": 8,
+    "date": "2023-05-22",
+    "description": "Limited-time offer: Buy one, get one free"
+  },
+  {
+    "nid": 9,
+    "date": "2023-05-23",
+    "description": "Upcoming movie premiere"
+  },
+  {
+    "nid": 10,
+    "date": "2023-05-24",
+    "description": "Discounted tickets for students"
+  },
+  {
+    "nid": 11,
+    "date": "2023-05-25",
+    "description": "Exclusive VIP event"
+  },
+  {
+    "nid": 12,
+    "date": "2023-05-26",
+    "description": "Special offer: Combo deals"
+  },
+  {
+    "nid": 13,
+    "date": "2023-05-27",
+    "description": "Movie premiere this weekend!"
+  },
+  {
+    "nid": 14,
+    "date": "2023-05-28",
+    "description": "Special screening: Director's cut"
+  },
+  {
+    "nid": 15,
+    "date": "2023-05-29",
+    "description": "Upcoming movie marathon event"
+  },
+  {
+    "nid": 16,
+    "date": "2023-05-30",
+    "description": "New movie release!"
+  },
+  {
+    "nid": 17,
+    "date": "2023-05-31",
+    "description": "Exclusive Q&A session with the director"
+  },
+  {
+    "nid": 18,
+    "date": "2023-06-01",
+    "description": "Special discount: Family packages"
+  },
+  {
+    "nid": 19,
+    "date": "2023-06-02",
+    "description": "Upcoming movie premiere"
+  },
+  {
+    "nid": 20,
+    "date": "2023-06-03",
+    "description": "Limited-time offer: Free popcorn"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "couponid": 1,
+    "amount": 10
+  },
+  {
+    "couponid": 2,
+    "amount": 20
+  },
+  {
+    "couponid": 3,
+    "amount": 15
+  },
+  {
+    "couponid": 4,
+    "amount": 25
+  },
+  {
+    "couponid": 5,
+    "amount": 30
+  },
+  {
+    "couponid": 6,
+    "amount": 5
+  },
+  {
+    "couponid": 7,
+    "amount": 10
+  },
+  {
+    "couponid": 8,
+    "amount": 15
+  },
+  {
+    "couponid": 9,
+    "amount": 20
+  },
+  {
+    "couponid": 10,
+    "amount": 25
+  },
+  {
+    "couponid": 11,
+    "amount": 10
+  },
+  {
+    "couponid": 12,
+    "amount": 20
+  },
+  {
+    "couponid": 13,
+    "amount": 15
+  },
+  {
+    "couponid": 14,
+    "amount": 25
+  },
+  {
+    "couponid": 15,
+    "amount": 30
+  },
+  {
+    "couponid": 16,
+    "amount": 5
+  },
+  {
+    "couponid": 17,
+    "amount": 10
+  },
+  {
+    "couponid": 18,
+    "amount": 15
+  },
+  {
+    "couponid": 19,
+    "amount": 20
+  },
+  {
+    "couponid": 20,
+    "amount": 25
+  }
+]

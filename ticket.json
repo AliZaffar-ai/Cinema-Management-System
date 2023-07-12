@@ -1,0 +1,142 @@
+[
+  {
+    "ticketid": 1,
+    "price": 15,
+    "customer_customerid": 1,
+    "coupon_couponid": 1,
+    "show_showid": 1
+  },
+  {
+    "ticketid": 2,
+    "price": 20,
+    "customer_customerid": 2,
+    "coupon_couponid": 2,
+    "show_showid": 2
+  },
+  {
+    "ticketid": 3,
+    "price": 18,
+    "customer_customerid": 3,
+    "coupon_couponid": 2,
+    "show_showid": 3
+  },
+  {
+    "ticketid": 4,
+    "price": 22,
+    "customer_customerid": 4,
+    "coupon_couponid": 1,
+    "show_showid": 4
+  },
+  {
+    "ticketid": 5,
+    "price": 16,
+    "customer_customerid": 5,
+    "coupon_couponid": 3,
+    "show_showid": 5
+  },
+  {
+    "ticketid": 6,
+    "price": 12,
+    "customer_customerid": 6,
+    "coupon_couponid": 4,
+    "show_showid": 6
+  },
+  {
+    "ticketid": 7,
+    "price": 18,
+    "customer_customerid": 7,
+    "coupon_couponid": 5,
+    "show_showid": 7
+  },
+  {
+    "ticketid": 8,
+    "price": 14,
+    "customer_customerid": 8,
+    "coupon_couponid": 3,
+    "show_showid": 8
+  },
+  {
+    "ticketid": 9,
+    "price": 20,
+    "customer_customerid": 9,
+    "coupon_couponid": 2,
+    "show_showid": 9
+  },
+  {
+    "ticketid": 10,
+    "price": 16,
+    "customer_customerid": 10,
+    "coupon_couponid": 1,
+    "show_showid": 10
+  },
+  {
+    "ticketid": 11,
+    "price": 22,
+    "customer_customerid": 11,
+    "coupon_couponid": 6,
+    "show_showid": 11
+  },
+  {
+    "ticketid": 12,
+    "price": 17,
+    "customer_customerid": 12,
+    "coupon_couponid": 7,
+    "show_showid": 12
+  },
+  {
+    "ticketid": 13,
+    "price": 19,
+    "customer_customerid": 13,
+    "coupon_couponid": 8,
+    "show_showid": 13
+  },
+  {
+    "ticketid": 14,
+    "price": 15,
+    "customer_customerid": 14,
+    "coupon_couponid": 9,
+    "show_showid": 14
+  },
+  {
+    "ticketid": 15,
+    "price": 21,
+    "customer_customerid": 15,
+    "coupon_couponid": 10,
+    "show_showid": 15
+  },
+  {
+    "ticketid": 16,
+    "price": 13,
+    "customer_customerid": 16,
+    "coupon_couponid": 11,
+    "show_showid": 16
+  },
+  {
+    "ticketid": 17,
+    "price": 23,
+    "customer_customerid": 17,
+    "coupon_couponid": 12,
+    "show_showid": 17
+  },
+  {
+    "ticketid": 18,
+    "price": 16,
+    "customer_customerid": 18,
+    "coupon_couponid": 13,
+    "show_showid": 18
+  },
+  {
+    "ticketid": 19,
+    "price": 24,
+    "customer_customerid": 19,
+    "coupon_couponid": 14,
+    "show_showid": 19
+  },
+  {
+    "ticketid": 20,
+    "price": 18,
+    "customer_customerid": 20,
+    "coupon_couponid": 15,
+    "show_showid": 20
+  }
+]

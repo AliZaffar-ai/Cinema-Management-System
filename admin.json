@@ -1,0 +1,52 @@
+[
+  {
+    "adminid": 1,
+    "name": "John Doe",
+    "password": "admin123"
+  },
+  {
+    "adminid": 2,
+    "name": "Jane Smith",
+    "password": "password456"
+  },
+  {
+    "adminid": 3,
+    "name": "Sarah Adams",
+    "password": "admin987"
+  },
+  {
+    "adminid": 4,
+    "name": "David Wilson",
+    "password": "passadmin123"
+  },
+  {
+    "adminid": 5,
+    "name": "Karen Thompson",
+    "password": "adminpass456"
+  },
+  {
+    "adminid": 6,
+    "name": "Michael Smith",
+    "password": "admin13"
+  },
+  {
+    "adminid": 7,
+    "name": "Jessica Johnson",
+    "password": "password436"
+  },
+  {
+    "adminid": 8,
+    "name": "Andrew Wilson",
+    "password": "admin654"
+  },
+  {
+    "adminid": 9,
+    "name": "Emma Thompson",
+    "password": "passadmin907"
+  },
+  {
+    "adminid": 10,
+    "name": "Christopher Davis",
+    "password": "adminpass107"
+  }
+]

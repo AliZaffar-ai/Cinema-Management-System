@@ -1,0 +1,102 @@
+[
+{
+"hallid": 1,
+"hallname": "Hall A",
+"location": "New York"
+},
+{
+"hallid": 2,
+"hallname": "Hall B",
+"location": "Phoenix"
+},
+{
+"hallid": 3,
+"hallname": "Hall C",
+"location": "Atlanta"
+},
+{
+"hallid": 4,
+"hallname": "Hall D",
+"location": "San Francisco"
+},
+{
+"hallid": 5,
+"hallname": "Hall E",
+"location": "Miami"
+},
+{
+"hallid": 6,
+"hallname": "Hall F",
+"location": "Seattle"
+},
+{
+"hallid": 7,
+"hallname": "Hall G",
+"location": "Houston"
+},
+{
+"hallid": 8,
+"hallname": "Hall H",
+"location": "Boston"
+},
+{
+"hallid": 9,
+"hallname": "Hall I",
+"location": "Atlanta"
+},
+{
+"hallid": 10,
+"hallname": "Hall J",
+"location": "Denver"
+},
+{
+"hallid": 11,
+"hallname": "Hall K",
+"location": "Dallas"
+},
+{
+"hallid": 12,
+"hallname": "Hall L",
+"location": "Phoenix"
+},
+{
+"hallid": 13,
+"hallname": "Hall M",
+"location": "Las Vegas"
+},
+{
+"hallid": 14,
+"hallname": "Hall N",
+"location": "Austin"
+},
+{
+"hallid": 15,
+"hallname": "Hall O",
+"location": "Seattle"
+},
+{
+"hallid": 16,
+"hallname": "Hall P",
+"location": "Washington"
+},
+{
+"hallid": 17,
+"hallname": "Hall Q",
+"location": "Philadelphia"
+},
+{
+"hallid": 18,
+"hallname": "Hall R",
+"location": "Austin"
+},
+{
+"hallid": 19,
+"hallname": "Hall S",
+"location": "Miami"
+},
+{
+"hallid": 20,
+"hallname": "Hall T",
+"location": "San Antonio"
+}
+]
